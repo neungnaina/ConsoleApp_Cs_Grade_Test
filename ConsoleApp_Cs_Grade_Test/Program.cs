@@ -213,9 +213,10 @@ namespace ConsoleApp_Cs_Grade_Test
                 }*/
                 #endregion
 
-
+                Console.Write("\nPress any key enter....");
 
                 Console.ReadKey();// press for close Program
+
 
 
 
